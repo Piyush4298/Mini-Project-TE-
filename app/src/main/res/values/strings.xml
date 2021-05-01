@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mini Quiz</string>
+    <string name="comp_kwiz">Comp Kwiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="highscore_0">Highscore: 0</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="option_4_rb">Option 4</string>
+    <string name="option_3_rb">Option 3</string>
+    <string name="option_2_rb">Option 2</string>
+    <string name="countdown">00:30</string>
+    <string name="question_count">Question: 1 / x</string>
+    <string name="score_count">Score: 0</string>
+    <string name="option_1_rb">Option 1</string>
+    <string name="subject">Subject:</string>
+    <string name="difficulty">Difficulty:</string>
+
+</resources>
